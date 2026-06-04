@@ -2,7 +2,7 @@ fastapi==0.115.0
 uvicorn==0.41.0
 httpx==0.28.1
 python-dotenv==1.1.1
-pydantic==pydantic==2.10.6
+pydantic==2.10.6
 cachetools==5.5.0
 python-multipart==0.0.20
 groq==0.15.0
